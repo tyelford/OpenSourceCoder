@@ -28,9 +28,10 @@ total = 0
 for i in range(1, 1000):
 	if(isMultipleOf3(i)):
 		total += i
+		#Make sure not to add numbers that are both multiples of 3 and 5
+		continue
 	if(isMultipleOf5(i)):
 		total += i
 		
 print total
-#Total should be 266,333
 
