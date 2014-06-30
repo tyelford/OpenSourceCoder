@@ -16,7 +16,7 @@ numToFind = 10001
 #Function to check for a prime number
 def findPrime(num):
 	for i in range(2, num - 1):
-		if(num%i == 0):
+		if(num % i == 0):
 			#Number is not prime
 			return False
 	return True
