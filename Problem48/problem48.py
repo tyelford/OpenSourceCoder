@@ -1,6 +1,6 @@
 #Source: Problem 48 from Project Euler - https://projecteuler.net/problem=48
 #Author: Tyson Elford
-#Date: June 27, 2014
+#Date: July 4, 2014
 
 #Problem:
 #The series, 11 + 22 + 33 + ... + 1010 = 10405071317.
